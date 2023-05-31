@@ -9,4 +9,5 @@
 ## Product API - Endpoints
 
 **Get all products**
+
 [GET] - http://localhost:**3001**/products
